@@ -26,7 +26,3 @@ I’m especially interested in backend architecture, clean API design, and produ
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
