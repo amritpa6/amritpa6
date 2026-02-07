@@ -1,6 +1,6 @@
 <h1 align="center">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ | Sat Sri Akaal 🙏</h1>
 
-I’m **Amritpal**, a third-year Computing Science student currently studying at the University of Alberta in Canada.
+I’m **Amritpal**, a third-year Computing Science student at the University of Alberta in Canada.
 
 I’m a full-stack developer focused on scalable web applications and backend systems, working with React, Node.js, Express, MongoDB, PostgreSQL, REST APIs, and GitHub.
 
