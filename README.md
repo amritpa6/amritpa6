@@ -1,4 +1,4 @@
-<p align="center">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ 🙏 | Sat Shri Akaal 🙏</p>
+<p align="center">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ 🙏 | Sat Sri Akaal 🙏</p>
 
 Hi, I’m Amritpal 🌍<br>
 I’m a third-year Computing Science student at the University of Alberta in Canada.<br>
