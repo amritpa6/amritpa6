@@ -16,13 +16,14 @@ I’m especially interested in backend architecture, clean API design, and produ
 # Recent Projects
 - **Aurevia**: Car Rental Website - [Live Link](https://aurevia-omega.vercel.app/)
 - **Trackr**: Job Application Tracker - [Live Link](https://aurevia-omega.vercel.app/)
+- **Nestify**: Airbnb-style Listing Website - [Live Link](https://listingwebapp.onrender.com/listings)
 
 # 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amritpa6&theme=shadow_blue&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=amritpa6&theme=shadow_blue&hide_border=false" height="170" />
 </p>
