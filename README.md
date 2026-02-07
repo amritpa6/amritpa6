@@ -1,6 +1,6 @@
 <h1 align="center">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ | Sat Sri Akaal 🙏</h1>
 
-I’m **Amritpal**, a third-year Computing Science student from Panjab, currently studying at the University of Alberta in Canada.
+I’m **Amritpal**, a third-year Computing Science student currently studying at the University of Alberta in Canada.
 
 I’m a full-stack developer focused on scalable web applications and backend systems, working with React, Node.js, Express, MongoDB, PostgreSQL, REST APIs, and GitHub.
 
@@ -14,7 +14,7 @@ I’m currently open to collaborating on real-world full-stack and open-source p
 
 # 🚀 Recent Projects
 - **Aurevia**: Car Rental Website - [Live Link](https://aurevia-omega.vercel.app/)
-- **Trackr**: Job Application Tracker - [Live Link](https://aurevia-omega.vercel.app/)
+- **Trackr**: Job Application Tracker - [Live Link](https://trackr-sand.vercel.app/)
 - **Nestify**: Airbnb-style Listing Website - [Live Link](https://listingwebapp.onrender.com/listings)
 
 # 📊 GitHub Analytics
