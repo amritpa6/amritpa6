@@ -19,8 +19,8 @@ I’m currently open to collaborating on real-world full-stack and open-source p
 
 # 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="195" />&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amritpa6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" height="195" />
 </p>
 
 <p align="center">
