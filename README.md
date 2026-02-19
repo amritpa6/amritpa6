@@ -14,6 +14,7 @@ I’m currently open to collaborating on real-world full-stack and open-source p
 
 # 🚀 Recent Projects
 - **Aurevia**: Car Rental Website - [Live Link](https://aurevia-omega.vercel.app/)
+- **Limely**: Real-time Video Meeting App - [Live Link](https://limely-lovat.vercel.app/)
 - **Trackr**: Job Application Tracker - [Live Link](https://trackr-sand.vercel.app/)
 - **Nestify**: Airbnb-style Listing Website - [Live Link](https://listingwebapp.onrender.com/listings)
 
